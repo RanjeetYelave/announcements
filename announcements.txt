@@ -1,14 +1,1 @@
-SoftwareManagementTool.html:1 Unsafe attempt to load URL file:///Users/afk/Documents/GitHub/Simple-Billing/tools/SoftwareManagementTool.html from frame with URL file:///Users/afk/Documents/GitHub/Simple-Billing/tools/SoftwareManagementTool.html. 'file:' URLs are treated as unique security origins.
-
-SoftwareManagementTool.html:1 Unsafe attempt to load URL file:///Users/afk/Documents/GitHub/Simple-Billing/tools/SoftwareManagementTool.html from frame with URL file:///Users/afk/Documents/GitHub/Simple-Billing/tools/SoftwareManagementTool.html. 'file:' URLs are treated as unique security origins.
-
-SoftwareManagementTool.html:1 Unsafe attempt to load URL file:///Users/afk/Documents/GitHub/Simple-Billing/tools/SoftwareManagementTool.html from frame with URL file:///Users/afk/Documents/GitHub/Simple-Billing/tools/SoftwareManagementTool.html. 'file:' URLs are treated as unique security origins.
-
-SoftwareManagementTool.html:1 Unsafe attempt to load URL file:///Users/afk/Documents/GitHub/Simple-Billing/tools/SoftwareManagementTool.html from frame with URL file:///Users/afk/Documents/GitHub/Simple-Billing/tools/SoftwareManagementTool.html. 'file:' URLs are treated as unique security origins.
-
-SoftwareManagementTool.html:1 Unsafe attempt to load URL file:///Users/afk/Documents/GitHub/Simple-Billing/tools/SoftwareManagementTool.html from frame with URL file:///Users/afk/Documents/GitHub/Simple-Billing/tools/SoftwareManagementTool.html. 'file:' URLs are treated as unique security origins.
-
-SoftwareManagementTool.html:1 Unsafe attempt to load URL file:///Users/afk/Documents/GitHub/Simple-Billing/tools/SoftwareManagementTool.html from frame with URL file:///Users/afk/Documents/GitHub/Simple-Billing/tools/SoftwareManagementTool.html. 'file:' URLs are treated as unique security origins.
-
-SoftwareManagementTool.html:1 Unsafe attempt to load URL file:///Users/afk/Documents/GitHub/Simple-Billing/tools/SoftwareManagementTool.html from frame with URL file:///Users/afk/Documents/GitHub/Simple-Billing/tools/SoftwareManagementTool.html. 'file:' URLs are treated as unique security origins.
-
+Test announcement from script
