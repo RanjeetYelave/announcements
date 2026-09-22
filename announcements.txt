@@ -1,1 +1,5 @@
 Test announcement from script
+
+@@@
+
+Welcome to RupeeCRM! Service is fully operational.
