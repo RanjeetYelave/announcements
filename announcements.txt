@@ -1,1 +1,1 @@
-[URGENT] Scheduled Downtime: RupeeCRM will be down on 2PM - 6PM for Maintainance
+[INFO] Maintenance Alert 1790316356845: Scheduled database vacuuming at midnight.
